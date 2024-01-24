@@ -8,3 +8,5 @@ def count_emma(statement):
 #if loop is finished return count 
     return count
 #check the function and print the given statement
+count = count_emma("Emma is good developer. Emma is a writer")
+print("Emma appeared", count, "times")
