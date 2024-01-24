@@ -6,4 +6,5 @@ def count_emma(statement):
         if statement[i: i + 4] == 'Emma':
             count += 1
 #if loop is finished return count 
+    return count
 #check the function and print the given statement
