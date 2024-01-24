@@ -1,4 +1,5 @@
 #define a function for counting emma
+def count_emma(statement):
 #for loop
 #check if the substring of length 4 starting at the current index is equal to Emma
 #if loop is finished return count 
